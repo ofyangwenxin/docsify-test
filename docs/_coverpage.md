@@ -7,7 +7,7 @@
 项目描述说明
 
 [GitHub](https://github.com/ofyangwenxin/docsify-test)
-[Get Started](#docsify)
+[Get Started](README.md)
 
 ![color](#fff)
 
